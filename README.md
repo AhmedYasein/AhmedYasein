@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/AhmedYasein/AhmedYasein/blob/main/name.svg" alt="Ahmed Yasein" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Ahmed Yasein</h1>
 <h3 align="center">iOS Developer</h3>
 
