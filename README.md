@@ -33,5 +33,5 @@
 <p>
 <a href="https://www.linkedin.com/in/ahmedyasein/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-sliem-662491172/" height="30" width="40" /></a>
 <a href="https://leetcode.com/AhmedYasein/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/mosliem99" height="30" width="40" /></a>
-<a href="Ahmed:ahmed.yasein.work@gmail.com" target="blank"><img align="center" src="https://github.com/mosliem/mosliem/blob/main/Gmail-logo.svg" alt="mohamedmostafa191299@gmail.com" height="40" width="50" />fdfd</a>
+<a href="mailto:ahmed.yasein.work@gmail.com" target="blank"><img align="center" src="https://github.com/mosliem/mosliem/blob/main/Gmail-logo.svg" alt="mohamedmostafa191299@gmail.com" height="40" width="50" /></a>
 </p>
