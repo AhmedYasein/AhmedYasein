@@ -6,7 +6,7 @@
 <h3 align="center">iOS Developer</h3>
 
 - 🔭 I'm currently an iOS developer intern at [NTG Clarity](https://ntgclarity.com/)
-- 📄 Know about my experiences [Here is my CV](https://drive.google.com/file/d/14qu6LX9MbEEQ_YmjiATF7f4x8lbR3WWv/view?usp=sharing)
+- 📄 Know about my experiences [Here is my CV](https://drive.google.com/file/d/1ABfS08Dz1ypNAj_mrzlFWeEoysP6uj0m/view?usp=sharing)
 
 <h3 align="left"> Skills </h3>
 
