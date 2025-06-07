@@ -3,23 +3,23 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Ahmed Yasein</h1>
-<h3 align="center">iOS Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🔭 I'm currently an iOS developer intern at [NTG Clarity](https://ntgclarity.com/)
-- 📄 Know about my experiences [Here is my CV](https://drive.google.com/file/d/1ABfS08Dz1ypNAj_mrzlFWeEoysP6uj0m/view?usp=sharing)
+
+- 📄 Know about my experiences [Here is my CV]([https://drive.google.com/file/d/1ABfS08Dz1ypNAj_mrzlFWeEoysP6uj0m/view?usp=sharing](https://drive.google.com/file/d/1KfLn9hPQUjw43XcvaUCwspApVtY6dkNh/view?usp=drive_link))
 
 <h3 align="left"> Skills </h3>
 
- - 💻 Swift, UIKit
+ - 💻 JS, Swift, C++
  - 📚OOP
  - 🛠 MVC, MVP
  - 📚 Data structure and Algorithms
- - ⚙Core Data, SQLite, User Defauts
+ - ⚙ Node JS, Express
  - 👨‍💻SOLID Principles
  - ⚙️RESTful API, Postman
  - ⚙️Git, GitHub
  - 👨‍💻Firebase
- - 📚Knowledge in Design Patterns
+ - 📚Design Patterns
 
 
 <h3 align="left">Languages and Tools:</h3>
